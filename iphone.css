@@ -6,8 +6,8 @@ flex-direction: column;
 
 }
 
-#navbar ul li {
-font-size: 1.5rem;
+#navbar ul li a{
+font-size: 2.1rem;
 
 }
 
